@@ -1,4 +1,3 @@
-
 public class LessonFive {
 
     static final int SIZE = 10000000;
@@ -62,5 +61,5 @@ public class LessonFive {
 
             System.out.println("Второй метод: " + (System.currentTimeMillis() - startSecond) + " мс.");
         }
-        
+
     }
